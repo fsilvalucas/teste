@@ -1,0 +1,7 @@
+(select * from postos)
+(select * from postos_art_paraiba_do_sul)
+(select * from postos_art_tiete)
+(select * from postos_art_parana)
+(select * from postos_art_iguacu)
+(select * from postos_art_atiete)
+(select * from postos_inc_parana)
