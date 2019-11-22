@@ -11,7 +11,7 @@ from datetime import datetime
 class bbce_plots:
     def __init__(self, int_numero, str_lista):
         self._numero = int_numero
-        self._cnx = mysql.connector.connect(user='Lucas', password='Vodka123', host='127.0.0.1', database='bbce2')
+        self._cnx = mysql.connector.connect(user='user', password='password', host='host', database='db')
         self._lista = str_lista
 
     # lista de querys
